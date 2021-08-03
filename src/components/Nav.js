@@ -5,8 +5,9 @@ const Nav = () => {
                 <img src="" alt="" />
                 <h2 id="app-name">Weather</h2>
             </div>
+            <p>Wea</p>
         </nav>
     )
 }
 
-import default Nav
+export default Nav
