@@ -5,7 +5,7 @@ const Nav = () => {
                 <img src="" alt="" />
                 <h2 id="app-name">Weather</h2>
             </div>
-            <p>Wea</p>
+            <p>Weekly Forecast</p>
         </nav>
     )
 }
